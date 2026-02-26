@@ -1,6 +1,6 @@
 # 👨‍💻 Front-End Web Entwickler
 
-## 🚀 Meine Top-Projekte
+## 💻 Meine Top-Projekte
 
 - 🍳 [Kochwelt – Responsive Rezeptplattform](https://ismael993-create.github.io/Kochwelt/)
 - 📸 [Fotogram – Accessible Galerie mit Dialog API](https://ismael993-create.github.io/Fotogramismael/)
