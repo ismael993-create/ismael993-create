@@ -10,7 +10,7 @@
   - 🔗 Live Demo: https://ismael993-create.github.io/rocket-game/ 
 - 📝 [Notizblock – LocalStorage App](https://github.com/ismael993-create/Notizblock)
   - 🔗 Live Demo: https://ismael993-create.github.io/Notizblock/
-- 🍔 [Bestellapp – Bestell App](https://github.com/ismael993-create/Bestellapp)
+- 🍔 [Bestellapp – JS/DOM Manipulation App](https://github.com/ismael993-create/Bestellapp)
   -  🔗 Live Demo: https://ismael993-create.github.io/Bestellapp/
 
 
