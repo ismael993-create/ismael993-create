@@ -12,7 +12,7 @@
   - 🔗 Live Demo: https://ismael993-create.github.io/Notizblock/
 - 🍔 [Bestellapp – JS/DOM Manipulation App](https://github.com/ismael993-create/Bestellapp)
   -  🔗 Live Demo: https://ismael993-create.github.io/Bestellapp/
-- 🧠 [Quiz App - JS/CSS7HTML ](https://github.com/ismael993-create/QuizzApp)
+- 🧠 [Quiz App - JS/CSS/HTML ](https://github.com/ismael993-create/QuizzApp)
   -  🔗 Live Demo: https://ismael993-create.github.io/QuizzApp/
 
 
