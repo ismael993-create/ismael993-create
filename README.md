@@ -3,7 +3,7 @@
 ## 💻 Meine Top-Projekte
 
 - 🐾 [Pokédex – Interaktive Pokémon-Plattform](https://github.com/ismael993-create/pokemonapi)
-  - 🔗 Live Demo: https://ismael-toumi.developerakademie.net/index.html
+  - 🔗 Live Demo: https://ismael993-create.github.io/pokemonapi/
 - 🍳 [Kochwelt – Responsive Rezeptplattform](https://github.com/ismael993-create/Kochwelt)
   - 🔗 Live Demo: https://ismael993-create.github.io/Kochwelt/  
 - 📸 [Fotogram – Accessible Galerie mit Dialog API](https://github.com/ismael993-create/Fotogramismael)
